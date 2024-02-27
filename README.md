@@ -1,6 +1,6 @@
 # IncidentHandlerJournal lab project-
 
-Scenario Overview
+Scenario:
 In this scenario I developed a project where I made an incident handler’s journal outline to record how a company organization detected a ransom ware incident. This journal goes into deep detail to show what steps were taken in the situation to prioritize the issues to be resolved in this case. I also, made statements about the skills and fundamentals I’ve learned through this course I completed for my Google cyber security certificate program.
 
 Cyber-threat Incident Scenario:
